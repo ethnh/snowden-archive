@@ -1,4 +1,4 @@
-The Snowden Archive
+# The Snowden Archive Markdown Json Format
 
 This repository is a complete collection of all documents leaked by former National Security Agency contractor and whistleblower Edward Snowden that have subsequently been published by news media around the world. The documents have been converted to JSON and Markdown formats for easier access and use.
 
