@@ -1,8 +1,8 @@
-# The Snowden Archive
+The Snowden Archive
 
-This repository is a complete collection of all documents leaked by former National Security Agency contractor and whistleblower Edward Snowden that have subsequently been published by news media around the world.
+This repository is a complete collection of all documents leaked by former National Security Agency contractor and whistleblower Edward Snowden that have subsequently been published by news media around the world. The documents have been converted to JSON and Markdown formats for easier access and use.
 
-If you notice something is missing or wrong, please file an issue or tweet at [@iamcryptoki](https://twitter.com/iamcryptoki).
+If you notice something is missing or wrong, please file an issue or contact me via my links on profile
 
 ## Timeline of Revelations (2013-2018)
 
