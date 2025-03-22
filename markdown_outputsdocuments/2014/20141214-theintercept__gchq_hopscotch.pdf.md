@@ -1,1 +1,0 @@
-31. Sending all these edges from one cloud to the other would have other advantages. It would essentially allow us to have all summarised contact pairs in one location and this would make other analytics easier (and also make the HOPSCOTCH QFD easier to manage).

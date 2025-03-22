@@ -1,4 +1,0 @@
-(TS/ISI/INF) NSA's relationship with the FRA, an extremely competent, technically innovative, and trusted Third Party partner, continues to grow. The FRA provided NSA with access to its cable collection in 2011, providing unique collection on high-priority Russian targets such as leadership, internal politics, and energy. Other topics
-
-Russia and the Baltic region include countering foreign intelligence and military. FRA's efforts against counter-terrorism (CT) targets continue to expand, and new legislation enacted in January 2013 has improved its ability to work directly with the Swedish internal security service (SÅPO). NSA's Data Acquisition is actively engaged with the FRA, which has numerous collection sites and is proficient in collecting a wide variety of communications.
-(U) Key Issues

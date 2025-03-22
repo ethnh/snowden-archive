@@ -1,2 +1,0 @@
-- Project SANDSTORM deals with active enabling for geolocation of targeted HVT 802.11 signals. Testing is underway at MHS to improve techniques for characterisation of wi-fi devices in dider that collectors such as OH may geolocate.
-- Active Sigint Enabling Passive Geolocation (ASEPG). The programme is a set of solutions that exploit 802.11 wireless services allowing Overhead to geolocate high value targets in denied areas while they are off the net. Geolocations of under 100 m are expected against low power signals.
